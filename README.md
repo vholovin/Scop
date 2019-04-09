@@ -31,41 +31,41 @@ Browser for 3D models on openGL with its own algorithm for loading OBJ geometry 
 '`esc`' - exit
 
 # Move model:
-axis X+:	'`right`'
-axis X-:	'`left`'
-axis Y+:	'`up`'
-axis Y-:	'`down`'
-axis Z+:	'`<`'
-axis Z-:	'`>`'
+- axis X+:		'`right`'
+- axis X-:		'`left`'
+- axis Y+:		'`up`'
+- axis Y-:		'`down`'
+- axis Z+:		'`<`'
+- axis Z-:		'`>`'
 
 # Rotate model:
 press key '`shift`' and any keys:
-axis X+	:	'`right`'
-axis X-	:	'`left`'
-axis Y+	:	'`up`'
-axis Y-	:	'`down`'
-axis Z+	:	'`<`'
-axis Z-	:	'`>`'
+- axis X+:		'`right`'
+- axis X-:		'`left`'
+- axis Y+:		'`up`'
+- axis Y-:		'`down`'
+- axis Z+:		'`<`'
+- axis Z-:		'`>`'
 
 # Scale model:
-up scale:	'`+`'
-down scale:	'`-`'
+- up scale:		'`+`'
+- down scale:	'`-`'
 
-#Background color:
-color:		'`b`'
+# Background color:
+- color:		'`b`'
 
 # Effects:
-diffuse:	'`d`'
-normal:		'`n`'
-specular:	'`s`'
+- diffuse:		'`d`'
+- normal:		'`n`'
+- specular:		'`s`'
 
 # Specular index:
-up index:	'`a`'
-down index:	'`z`'
+- up index:		'`a`'
+- down index:	'`z`'
 
 # Color mods:
-'`1`' : wire
-'`2`' : B&W triangle gradient
-'`3`' : color triangle gradient
-'`4`' : color + normal mapping + light effect
-'`5`' : diffuse mapping + normal mapping + light effect
+- '`1`' : wire
+- '`2`' : B&W triangle gradient
+- '`3`' : color triangle gradient
+- '`4`' : color + normal mapping + light effect
+- '`5`' : diffuse mapping + normal mapping + light effect
